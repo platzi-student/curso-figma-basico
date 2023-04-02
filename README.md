@@ -37,3 +37,11 @@ Bancos de imágenes libres de derechos de autor:
 * https://kaboompics.com/
 * https://www.freeimages.com/
 * https://www.stockvault.net/
+
+# Redes de Vectores
+* https://www.youtube.com/watch?v=YGBIc6oJCos
+
+# Colores en Figma
+* https://www.youtube.com/watch?v=9CY_1jFw4h0
+
+
