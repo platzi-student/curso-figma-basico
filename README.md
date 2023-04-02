@@ -30,10 +30,10 @@ Curso de Figma Básico: Prototipado e Interfaces
 * https://www.youtube.com/watch?v=gnscqweM_NU
 
 Bancos de imágenes libres de derechos de autor:
-https://www.pexels.com/es-es/
-https://unsplash.com/es
-https://pixabay.com/es/
-https://nappy.co/
-https://kaboompics.com/
-https://www.freeimages.com/
-https://www.stockvault.net/
+* https://www.pexels.com/es-es/
+* https://unsplash.com/es
+* https://pixabay.com/es/
+* https://nappy.co/
+* https://kaboompics.com/
+* https://www.freeimages.com/
+* https://www.stockvault.net/
